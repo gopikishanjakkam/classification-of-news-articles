@@ -1,0 +1,4 @@
+Module 2 description
+
+Module 1 : Creating the Corpus
+Web scrape a minimum of 200 pages in each category and save the relevant content in text files, one for each webpage.
